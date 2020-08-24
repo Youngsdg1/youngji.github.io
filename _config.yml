@@ -18,16 +18,16 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "영수달지의 코딩일기"
 title_separator          : "-"
-subtitle                 : "JavaScript, React, Redux, Saga, Python" # site tagline that appears below site title in masthead
+subtitle                 : "V.1.0.0." # site tagline that appears below site title in masthead
 name                     : "Otterji"
-description              : "An amazing website."
+description              : "영지의 개발 공부 노트입니다"
 url                      : "https://otterji.github.io/devBlog/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "otterji/devBlog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/background.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
