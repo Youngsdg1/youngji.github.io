@@ -171,3 +171,10 @@ Provider 어떻게 돌아가는지 알아야함
 
 
 
+--- 1회차 주요 개념 ---
+- Curring
+- HOC
+- 디자인 패턴 (Strategy, Observer, Decorator, Factory, Abstract)
+- Context API
+- Observable Pattern
+- Provider
